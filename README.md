@@ -28,4 +28,4 @@ During the documentation and structuring phase of this repository in October 202
 *   `processes/`: Contains the RapidMiner process files (`.rmp`):
     *   `01_wdbc_cross_validation.rmp`: The main pipeline applying SMOTE, Normalization, and 10-fold CV on the models.
     *   `02_wdbc_hyperparameter_tuning.rmp`: The Grid Search processes for optimizing each algorithm.
-*   `reports/`: Contains the comprehensive project report in Greek PDF format (`project_report.pdf`).
+*   `reports/`: Contains the comprehensive project report in Greek PDF format (`project_report.pdf`). (to be updated)

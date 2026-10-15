@@ -1,0 +1,17 @@
+# Data files
+*.csv
+*.xlsx
+data/
+
+# RapidMiner specific ignores (if any temporary files are created)
+*.log
+*.bak
+
+# Virtual environments (if Python is ever integrated)
+venv/
+env/
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
